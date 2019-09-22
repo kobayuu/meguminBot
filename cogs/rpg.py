@@ -11,7 +11,7 @@ class Rpg(commands.Cog):
     @commands.command()
     async def dice(self, ctx, n):
         n = int(n)
-        nickname = str(ctx.author)
+        nickname = str(ctx.author.mention)
         print(f'{nickname}')
         await ctx.send(f'{nickname}, seu resultado foi {random.randrange(1, n)}')
 
