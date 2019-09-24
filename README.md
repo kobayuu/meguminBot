@@ -1,6 +1,5 @@
-# A discord bot that, plays music, give you daily rewards, and shitposts a lot
+# A discord bot that, ~~plays music, give you daily rewards, and~~ shitposts a lot
+# Use k?help for commands
 
-Use k?help for commands
 
-
-btw, ortega me mama
+_オルテガ m mm_
